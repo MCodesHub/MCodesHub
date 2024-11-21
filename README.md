@@ -1,14 +1,21 @@
 # 👋 Hi, I’m Michael Chavez
 
 **About Me:**
-- 🎖️ Veteran with 12+ years of honorable service
-- 💻 Skilled in SQL, Java, and C++
-- 🎓 Pursuing a Bachelor of Science in Computer Science at ASU (3.99 GPA)
-- 📊 Passionate about data optimization and problem-solving with SQL as my go-to tool
+- 💻 Specializing in SQL and database management, with additional experience in Java and C++
+- 🎖️ U.S. military veteran with over 12 years of honorable active-duty service
+- 🎓 Pursuing a Bachelor of Science in Computer Science at Arizona State University (3.99 GPA)
 
-**My Work:**
-- Managed 6,000+ accounts in the Defense Travel System, improving efficiency by 50%
-- Reduced costs and led a team of 8 employees while executing community events
-- Actively building impactful software and database solutions
+**Professional Experience:**
+As a Database Analyst during my military service, I managed over 6,000 accounts in the Defense Travel System (DTS), utilizing SQL to streamline workflows, troubleshoot data issues, and enhance database efficiency. My work resulted in a 50% increase in manpower efficiency and a 40% reduction in travel delays. I also leveraged SQL Server Reporting Services (SSRS) to create custom reports, improving data accessibility and organizational decision-making.
 
-🚀 Let’s connect and build something extraordinary together!
+**Technical Skills:**
+- SQL: Query design, optimization, reporting (SSRS)
+- Programming: Java, C++, Python
+- Software Development: Data structures, object-oriented programming
+
+**What I’m Passionate About:**
+- 🚀 Building scalable, efficient database systems
+- 📊 Optimizing workflows and solving complex technical challenges
+- 💡 Leveraging data-driven solutions to make impactful improvements
+
+My GitHub is a space where I share projects showcasing my expertise in database systems, programming, and problem-solving. Let’s connect and create something extraordinary together! 🚀
