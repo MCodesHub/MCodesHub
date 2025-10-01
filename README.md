@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Michael Chavez
 
 **About Me:**
-- 💻 Specializing in SQL and database management, with additional experience in Java and C++
+- 💻 Specializing in Front-end Web Development, with additional experience in C++
 - 🎖️ U.S. military veteran with over 12 years of honorable active-duty service
 - 🎓 Pursuing a Bachelor of Science in Computer Science at Arizona State University (3.99 GPA)
 
