@@ -12,7 +12,7 @@ About Me:
 
 Professional Experience:
 
-I currently work at RxSafe as a Technical Support Specialist for Pharmacy Automation, where I support complex automated pharmacy systems in production environments. My responsibilities include troubleshooting software, hardware, and configuration issues while collaborating with engineers to resolve system-level problems.
+Currently, I work at RxSafe as a Technical Support Specialist for Pharmacy Automation, where I support complex automated pharmacy systems in production environments. My responsibilities include troubleshooting software, hardware, and configuration issues while collaborating with engineers to resolve system-level problems.
 
 In this role, I regularly work with Microsoft SQL Server to investigate data-related issues and analyze system behavior. I utilize application and service configuration logs (including automation process and web service configuration logs) to diagnose failures, identify root causes, and support stable system operation. I also work extensively with network file paths, system permissions, and connectivity issues. Additionally, I assist with network configuration tasks such as transitioning systems from DHCP to static IP addressing, validating network settings, and ensuring reliable communication between automation devices and backend services in healthcare environments.
 
