@@ -8,7 +8,7 @@ About Me:
 
 🎖️ U.S. military veteran with over 12 years of honorable active-duty service
 
-🎓 Pursuing a Bachelor of Science in Computer Science at Arizona State University (3.99 GPA)
+🎓 Pursuing a Bachelor of Science in Computer Science at Arizona State University (3.97 GPA)
 
 Professional Experience:
 
