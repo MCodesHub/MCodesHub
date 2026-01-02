@@ -21,11 +21,8 @@ Previously, as an Operations NCO during my military service, I managed over 6,00
 Technical Skills:
 
 - Databases: Microsoft SQL Server, query design, optimization, reporting (SSRS)
-- 
 - Programming Languages: Python, C++
-- 
 - Web & Backend Technologies: HTML5, CSS3, JavaScript, React, Node.js
-- 
 - Systems & Networking: Log analysis, network file paths, DHCP-to-static IP configuration
 
 What I’m Passionate About:
