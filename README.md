@@ -2,7 +2,7 @@
 
 About Me:
 
-💻 Specializing in Front-end Web Development, with additional experience in C++
+💻 Specializing in Front-end Web Development, with additional experience in Python and backend development
 
 🏥 Technical Support Specialist for Pharmacy Automation at RxSafe (August 2025 – Present)
 
@@ -21,7 +21,7 @@ Previously, as an Operations NCO during my military service, I managed over 6,00
 Technical Skills:
 
 - Databases: Microsoft SQL Server, query design, optimization, reporting (SSRS)
-- Programming Languages: Python, C++
+- Programming Languages: Python
 - Web & Backend Technologies: HTML5, CSS3, JavaScript, React, Node.js
 - Systems & Networking: Log analysis, network file paths, DHCP-to-static IP configuration
 
