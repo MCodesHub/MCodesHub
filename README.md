@@ -16,7 +16,7 @@ Currently, I work at RxSafe as a Technical Support Specialist for Pharmacy Autom
 
 In this role, I regularly work with Microsoft SQL Server to investigate data-related issues and analyze system behavior. I utilize application and service configuration logs (including automation process and web service configuration logs) to diagnose failures, identify root causes, and support stable system operation. I also work extensively with network file paths, system permissions, and connectivity issues. Additionally, I assist with network configuration tasks such as transitioning systems from DHCP to static IP addressing, validating network settings, and ensuring reliable communication between automation devices and backend services in healthcare environments.
 
-Previously, as an Operations NCO during my military service, I managed over 6,000 accounts in the Defense Travel System (DTS), utilizing SQL to streamline workflows, troubleshoot data issues, and enhance database efficiency. My work resulted in a 15% increase in manpower efficiency and a 30% reduction in travel delays. I also leveraged SQL Server Reporting Services (SSRS) to create custom reports, improving data accessibility and organizational decision-making.
+Previously, as an Operations NCO during my military service, I managed over 2,000 accounts in the Defense Travel System (DTS), utilizing SQL to streamline workflows, troubleshoot data issues, and enhance database efficiency. My work resulted in a 15% increase in manpower efficiency and a 30% reduction in travel delays. I also leveraged SQL Server Reporting Services (SSRS) to create custom reports, improving data accessibility and organizational decision-making.
 
 Technical Skills:
 
