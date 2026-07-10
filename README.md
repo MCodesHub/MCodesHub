@@ -1,14 +1,20 @@
 👋 Hi, I’m Michael Chavez
 
-About Me:
+📊 Aspiring Data Analyst specializing in SQL, Python, and Tableau for data cleaning, analysis, visualization, and business insights.
 
-💻 Specializing in Front-end Web Development, with additional experience in Python and backend development
+🐍 Building hands-on experience with Python, Pandas, and exploratory data analysis (EDA) through real-world data analytics projects.
 
-🏥 Technical Support Specialist for Pharmacy Automation at RxSafe (August 2025 – Present)
+🗄️ Developing practical SQL skills for querying, filtering, joining, aggregating, and analyzing relational databases.
 
-🎖️ U.S. military veteran with over 12 years of honorable active-duty service
+📈 Creating Tableau dashboards and data visualizations to communicate trends, patterns, and actionable insights.
 
-🎓 Pursuing a Bachelor of Science in Computer Science at Arizona State University (3.97 GPA)
+🏥 Customer and Technical Support Specialist for Pharmacy Automation at RxSafe (July 2025 – Present), gaining experience working with healthcare technology, troubleshooting technical systems, and supporting pharmacy operations.
+
+🎖️ U.S. military veteran with over 10 years of honorable active-duty service, bringing leadership, discipline, teamwork, and problem-solving experience.
+
+🎓 Pursuing a Bachelor of Science in Data Analytics at Southern New Hampshire University with a 4.0 GPA.
+
+🚀 Currently building my data analytics portfolio through projects focused on data cleaning, exploratory data analysis, SQL analysis, healthcare data, and interactive dashboards.
 
 Professional Experience:
 
