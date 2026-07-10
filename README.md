@@ -2,12 +2,6 @@
 
 📊 Aspiring Data Analyst specializing in SQL, Python, and Tableau for data cleaning, analysis, visualization, and business insights.
 
-🐍 Building hands-on experience with Python, Pandas, and exploratory data analysis (EDA) through real-world data analytics projects.
-
-🗄️ Developing practical SQL skills for querying, filtering, joining, aggregating, and analyzing relational databases.
-
-📈 Creating Tableau dashboards and data visualizations to communicate trends, patterns, and actionable insights.
-
 🏥 Customer and Technical Support Specialist for Pharmacy Automation at RxSafe (July 2025 – Present), gaining experience working with healthcare technology, troubleshooting technical systems, and supporting pharmacy operations.
 
 🎖️ U.S. military veteran with over 10 years of honorable active-duty service, bringing leadership, discipline, teamwork, and problem-solving experience.
@@ -15,6 +9,8 @@
 🎓 Pursuing a Bachelor of Science in Data Analytics at Southern New Hampshire University with a 4.0 GPA.
 
 🚀 Currently building my data analytics portfolio through projects focused on data cleaning, exploratory data analysis, SQL analysis, healthcare data, and interactive dashboards.
+
+Tech Stack: 🐍 Python | 🐼 Pandas | 🗄️ SQL | 📊 Tableau
 
 Professional Experience:
 
@@ -24,19 +20,11 @@ In this role, I regularly work with Microsoft SQL Server to investigate data-rel
 
 Previously, as an Operations NCO during my military service, I managed over 2,000 accounts in the Defense Travel System (DTS), utilizing SQL to streamline workflows, troubleshoot data issues, and enhance database efficiency. My work resulted in a 15% increase in manpower efficiency and a 30% reduction in travel delays. I also leveraged SQL Server Reporting Services (SSRS) to create custom reports, improving data accessibility and organizational decision-making.
 
-Technical Skills:
-
-- Databases: Microsoft SQL Server, query design, optimization, reporting (SSRS)
-- Programming Languages: Python
-- Web & Backend Technologies: HTML5, CSS3, JavaScript, React, Node.js
-- Systems & Networking: Log analysis, network file paths, DHCP-to-static IP configuration
-
 What I’m Passionate About:
 
-🚀 Building reliable, scalable software and automation systems
+📊 Discovering patterns, trends, and insights that help organizations make informed decisions.
+🏥 Exploring the intersection of data, technology, and business operations.
+🔍 Investigating complex problems, identifying root causes, and using evidence to develop practical solutions.
+📈 Continuing to strengthen my analytical thinking and technical skills through hands-on projects and real-world problem-solving.
 
-📊 Solving complex system-level and data-driven problems
-
-💡 Bridging software development with real-world production environments
-
-My GitHub is a space where I share projects showcasing my expertise in software development, database systems, and problem-solving. Let’s connect and create something extraordinary together! 🚀
+My GitHub is a space where I document my growth in data analytics and share projects demonstrating my skills in SQL, Python, Pandas, Tableau, data visualization, and analytical problem-solving.
