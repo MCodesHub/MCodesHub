@@ -23,8 +23,11 @@ Previously, as an Operations NCO during my military service, I managed over 2,00
 What I’m Passionate About:
 
 📊 Discovering patterns, trends, and insights that help organizations make informed decisions.
+
 🏥 Exploring the intersection of data, technology, and business operations.
+
 🔍 Investigating complex problems, identifying root causes, and using evidence to develop practical solutions.
+
 📈 Continuing to strengthen my analytical thinking and technical skills through hands-on projects and real-world problem-solving.
 
 My GitHub is a space where I document my growth in data analytics and share projects demonstrating my skills in SQL, Python, Pandas, Tableau, data visualization, and analytical problem-solving.
